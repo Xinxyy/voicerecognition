@@ -1,3 +1,8 @@
+# imports speechrecognition, pyaudio
+# only supports py 3.11 interpreter and lower
+# python3 main.py | python main.py
+
+
 import speech_recognition as sr
 import webbrowser
 
